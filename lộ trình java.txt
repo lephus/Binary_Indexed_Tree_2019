@@ -1,0 +1,37 @@
+
+1. java core
+- console
+	+ string 	v
+	+ input		v
+	+ output	v
+	+ read, write file v
+	+ try catch (case,...) v
+- collections (map, set, stringbuilder, queue, stack,list,...) v
+- oop java
+	+ class
+	+ overide // kế thừa từ cha, có thay đổi 1 ít
+	+ overloading //cung tên public nhưng thay đổi kiêtm thêm biến..
+	+ interface v
+	+ extend v
+	+ apply oop c++ --> java v
+2. swing java 
+	+ frame
+	+ object swing (button, action,...)
+	+ ko keo tha (tu code) 
+	+ cac object trong swing
+	+ connect vs database
+	+ mysql (co so du lieu)
+	+ quan ly sinh vien (co giao dien)
+3. Luong, da luong (thread va multi thread)
+4. jsp, selverlet (dung lam web)
+5. lap trinh mang java (udp, tcp, client server)
+	+ yahoo chat
+	+ chat trong quan game
+	+ choi caro online
+Note:
+	+ dong bo
+	+ xu ly song song 
+	+ multi thread
+	+ game procon (client server)
+eclipse (linux, centos,...)
+
